@@ -9,8 +9,16 @@ const apps = [
     href: "/resizing-circles",
   },
   {
-    name: "new",
-    href: "/new",
+    name: "Accelerating Circle",
+    href: "/accelerating-circle",
+  },
+  {
+    name: "Gravity On Circle",
+    href: "/gravity-on-circle",
+  },
+  {
+    name: "Pop On Collosion",
+    href: "/pop-on-collosion",
   },
   {
     name: "other",
